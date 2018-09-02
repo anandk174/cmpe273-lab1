@@ -1,0 +1,11 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\anand\Documents\cmpe273-lab1> python http_call.py
+Sun, 02 Sep 2018 06:10:25 GMT
+Sun, 02 Sep 2018 06:10:26 GMT
+Sun, 02 Sep 2018 06:10:27 GMT
+PS C:\Users\anand\Documents\cmpe273-lab1> python http_async_call.py
+Sun, 02 Sep 2018 06:11:09 GMT
+Sun, 02 Sep 2018 06:11:09 GMT
+Sun, 02 Sep 2018 06:11:09 GMT
